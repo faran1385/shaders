@@ -28,5 +28,8 @@ View Project : https://scroll-based-topaz.vercel.app
 ##### Water
 View Project : https://water-tan.vercel.app
 
+##### Earth 2
+View Project : https://earth-2.vercel.app
+
 ##### Ragin Sea
 View Project : https://raging-sea-theta.vercel.app
