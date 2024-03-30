@@ -45,3 +45,6 @@ View Project : https://gpgpu-kohl.vercel.app
 
 ##### Wobble Sphere(Custom Shader Material)
 View Project : https://wobbly-sphere-phi.vercel.app
+
+##### Sliced Model
+View Project : https://sliced-model-nu.vercel.app
